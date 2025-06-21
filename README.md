@@ -1,2 +1,3 @@
 # website
 This is my cool website, ok?
+DON'T MODIFY OR YOU MUST SUPPORT THE CONSEQUENSES FROM THE LICENSE AND MINE!
